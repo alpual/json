@@ -52,7 +52,7 @@ class Json
     //instantiate channel module object
     if (empty($this->channel))
     {
-      require_once PATH_MOD.'channel/mod.channel'.EXT;
+      require_once PATH_MOD.'channel/mod.channel.php';
 
       $this->channel = new Channel;
     }
