@@ -4,7 +4,8 @@ Output ExpressionEngine data in JSON format.
 
 ## Requirements
 
-- ExpressionEngine 2.6+
+- ExpressionEngine 3.x - BETA
+For EE 2, use teh version from rsanchez: (https://github.com/rsanchez/json).
 
 For older versions of EE use JSON version [1.0.3](https://github.com/rsanchez/json/tree/v1.0.3).
 
